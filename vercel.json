@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://instagram.com/yourusername",
+      "destination": "https://www.facebook.com/share/1M4Eu7mBtn",
       "permanent": false
     }
   ]
